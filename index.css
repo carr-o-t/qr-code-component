@@ -15,6 +15,8 @@ body {
   background-color: white;
   padding: 1rem;
   border-radius: 1rem;
+  box-shadow: 1px 1px 50px hsla(219, 15%, 55%, 0.196),
+    -1px -1px 50px hsla(219, 15%, 55%, 0.196);
 }
 
 .qr-component--code {
